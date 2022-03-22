@@ -1,6 +1,6 @@
 {
-  "name": "infoplus-javascript-client",
-  "version": "beta",
+  "name": "yba-infoplus",
+  "version": "1.0.0",
   "description": "Infoplus_API_",
   "license": "Unlicense",
   "main": "src/index.js",
